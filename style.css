@@ -1,0 +1,18 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background-color: #121212;
+  color: white;
+}
+
+video {
+  border: 2px solid #00ffcc;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+
+#alert {
+  margin-top: 20px;
+  font-size: 1.5em;
+  color: red;
+}
